@@ -1,9 +1,4 @@
 "use client";
-declare global {
-  interface Window {
-    MathJax: any;
-  }
-}
 
 export default function Home() {
 
